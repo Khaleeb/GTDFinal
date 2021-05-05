@@ -4,7 +4,7 @@
 ### **Problem:**
 The word "terrorism" often evokes a context for many people that is rarely the actual case. While terrorist incidents are not at all uncommon in the modern age, the idea that comes to many peoples minds of what a terrorist attack is is not often an accurate representation of what most modern terrorist attacks are. Using the Global Terrorism Database,  I hope to make an easy to use and easy to read database containing information on recent attacks. Plot's comparing locations of the attacks, deaths, and perpetrators will help to show the true major contributors to terrorism in the modern era. This is also a topic that changes significantly over time, as different regions of the world fluctuate in political stability and different groups resort to terrorist tactics. Visually depicting the trends in this data could help to reveal repeatting patterns, while drops or spikes in the data may reveal how different events or laws affected global terrorism.
 
-## **Background: **
+## **Background:**
 Terrorism can be defined as "the unlawful use of violence and intimidation, especially against civilians, in the pursuit of political aims". This definition includes many politically motivated attacks, and is very clearly different from the common stereotypes of terrorism. The data will show the location, time, and date of the attack, as well as who the perpetrators were, who the targets were, wether it was successful, if there was a suicide attack, how many casualties there were, and more.
 
 ### **Questions:**
