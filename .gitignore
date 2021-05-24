@@ -1,3 +1,6 @@
+# Ignore original uncompressed data, file too large:
+data/globalterrorismdb.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
